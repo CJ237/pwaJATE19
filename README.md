@@ -41,6 +41,6 @@ Email me.
 
 ### Questions
 
-Email: cjthompson562@gmail.com
-github repository: https://github.com/CJ237/pwaJATE19
-Render link: https://pwajate19.onrender.com
+* Email: cjthompson562@gmail.com
+* github repository: https://github.com/CJ237/pwaJATE19
+* Render link: https://pwajate19.onrender.com
